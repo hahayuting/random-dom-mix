@@ -1,0 +1,27 @@
+{
+  "name": "mix-random-dom",
+  "version": "0.0.1",
+  "description": "mix the 'id' or 'class' in your project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hahayuting/mix.git"
+  },
+  "keywords": [
+    "mix",
+    "random-dom"
+  ],
+  "dependencies": {
+    "css-parse": "^2.0.0",
+    "hashids": "1.0.2"
+  },
+  "author": "liuyuting",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hahayuting/mix/issues"
+  },
+  "homepage": "https://github.com/hahayuting/mix#readme"
+}
