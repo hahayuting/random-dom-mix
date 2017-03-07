@@ -1,6 +1,6 @@
 {
-  "name": "mix-random-dom",
-  "version": "0.0.1",
+  "name": "random-dom-mix",
+  "version": "0.0.2",
   "description": "mix the 'id' or 'class' in your project",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hahayuting/mix.git"
+    "url": "git+https://github.com/hahayuting/random-dom-mix.git"
   },
   "keywords": [
     "mix",
@@ -21,7 +21,7 @@
   "author": "liuyuting",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hahayuting/mix/issues"
+    "url": "https://github.com/hahayuting/random-dom-mix/issues"
   },
-  "homepage": "https://github.com/hahayuting/mix#readme"
+  "homepage": "https://github.com/hahayuting/random-dom-mix#readme"
 }
