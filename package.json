@@ -1,6 +1,6 @@
 {
   "name": "random-dom-mix",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "mix the 'id' or 'class' in your project",
   "main": "index.js",
   "scripts": {
