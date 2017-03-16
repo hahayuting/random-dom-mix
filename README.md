@@ -2,7 +2,7 @@
 
 
 根据用户配置自动混淆代码中的选择器名称，包括类html、css和js文件的自动混淆，支持多种过滤形式和自定义混淆处理，可利用此库自行开发编译工具插件，示例请参见:
- - [fis-prepackager-random-dom](https://www.npmjs.com/package/fis-prepackager-random-dom)
+ - [fis-prepackager-random-dom](https://github.com/hahayuting/fis-prepackager-random-dom)
 
 ## 使用方法
 ### 安装
